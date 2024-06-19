@@ -27,7 +27,7 @@ public class LockApp {
     private void initialize() {
         frame = new JFrame();
         frame.setTitle("Lock Class");
-        frame.setBounds(100, 100, 450, 300);
+        frame.setBounds(50, 100, 450, 200);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.getContentPane().setLayout(new BorderLayout());
 
